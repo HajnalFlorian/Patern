@@ -1,0 +1,13 @@
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\obj\Debug\netcoreapp3.1\Patron_Prototype.csprojAssemblyReference.cache
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\obj\Debug\netcoreapp3.1\Patron_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\obj\Debug\netcoreapp3.1\Patron_Prototype.AssemblyInfoInputs.cache
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\obj\Debug\netcoreapp3.1\Patron_Prototype.AssemblyInfo.cs
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\bin\Debug\netcoreapp3.1\Patron_Prototype.exe
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\bin\Debug\netcoreapp3.1\Patron_Prototype.deps.json
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\bin\Debug\netcoreapp3.1\Patron_Prototype.runtimeconfig.json
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\bin\Debug\netcoreapp3.1\Patron_Prototype.runtimeconfig.dev.json
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\bin\Debug\netcoreapp3.1\Patron_Prototype.dll
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\bin\Debug\netcoreapp3.1\Patron_Prototype.pdb
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\obj\Debug\netcoreapp3.1\Patron_Prototype.dll
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\obj\Debug\netcoreapp3.1\Patron_Prototype.pdb
+C:\Users\hajna\source\repos\Patron_Prototype\Patron_Prototype\obj\Debug\netcoreapp3.1\Patron_Prototype.genruntimeconfig.cache

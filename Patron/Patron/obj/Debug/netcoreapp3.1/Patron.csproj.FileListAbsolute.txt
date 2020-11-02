@@ -1,0 +1,13 @@
+C:\Users\hajna\source\repos\Patron\Patron\bin\Debug\netcoreapp3.1\Patron.exe
+C:\Users\hajna\source\repos\Patron\Patron\bin\Debug\netcoreapp3.1\Patron.deps.json
+C:\Users\hajna\source\repos\Patron\Patron\bin\Debug\netcoreapp3.1\Patron.runtimeconfig.json
+C:\Users\hajna\source\repos\Patron\Patron\bin\Debug\netcoreapp3.1\Patron.runtimeconfig.dev.json
+C:\Users\hajna\source\repos\Patron\Patron\bin\Debug\netcoreapp3.1\Patron.dll
+C:\Users\hajna\source\repos\Patron\Patron\bin\Debug\netcoreapp3.1\Patron.pdb
+C:\Users\hajna\source\repos\Patron\Patron\obj\Debug\netcoreapp3.1\Patron.csprojAssemblyReference.cache
+C:\Users\hajna\source\repos\Patron\Patron\obj\Debug\netcoreapp3.1\Patron.csproj.CoreCompileInputs.cache
+C:\Users\hajna\source\repos\Patron\Patron\obj\Debug\netcoreapp3.1\Patron.AssemblyInfoInputs.cache
+C:\Users\hajna\source\repos\Patron\Patron\obj\Debug\netcoreapp3.1\Patron.AssemblyInfo.cs
+C:\Users\hajna\source\repos\Patron\Patron\obj\Debug\netcoreapp3.1\Patron.dll
+C:\Users\hajna\source\repos\Patron\Patron\obj\Debug\netcoreapp3.1\Patron.pdb
+C:\Users\hajna\source\repos\Patron\Patron\obj\Debug\netcoreapp3.1\Patron.genruntimeconfig.cache
